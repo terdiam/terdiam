@@ -6,4 +6,4 @@
 - 💬 Ask me about: ....
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: i'm not visible but not invisible
-- 💻 Most used line of code `git commit -m 'initial commit'`
+- 💻 Most used line of code `def`
