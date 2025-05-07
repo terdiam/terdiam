@@ -2,6 +2,7 @@
 
 
 - 😎 I'm Started learning.
+- 👀 Nickname: kancil/indra/bluespy/devil
 - 💬 Ask me about: ....
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: i'm not visible but not invisible
