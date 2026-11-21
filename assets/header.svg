@@ -52,7 +52,7 @@
 <text x="450" y="178" text-anchor="middle" class="role" opacity="0">Fullstack Developer<animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.5;0.54;0.71;0.75;1" values="0;0;1;1;0;0"/></text>
 <text x="450" y="178" text-anchor="middle" class="role" opacity="0">Kubernetes · Terraform · Go · Rust<animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.75;0.79;0.96;1.0;1" values="0;0;1;1;0;0"/></text>
 
-<text x="450" y="212" text-anchor="middle" class="tag" fill="#94a3b8">Bekasi, Indonesia · building &amp; running infrastructure</text>
+<text x="450" y="212" text-anchor="middle" class="tag" fill="#94a3b8">Building &amp; running infrastructure</text>
 </g>
 <rect x="0.5" y="0.5" width="899" height="259" rx="14" fill="none" stroke="#6366f1" stroke-opacity=".35"/>
 </svg>
