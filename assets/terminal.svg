@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 310" width="700" height="310" role="img" aria-label="terminal intro">
+<defs><clipPath id="c0"><rect x="28" y="70" height="24" width="0"><animate attributeName="width" dur="16s" repeatCount="indefinite" keyTimes="0;0.0000;0.0700;0.96;1" values="0;0;640;640;0"/></rect></clipPath>
+<clipPath id="c1"><rect x="28" y="96" height="24" width="0"><animate attributeName="width" dur="16s" repeatCount="indefinite" keyTimes="0;0.0900;0.1600;0.96;1" values="0;0;640;640;0"/></rect></clipPath>
+<clipPath id="c2"><rect x="28" y="122" height="24" width="0"><animate attributeName="width" dur="16s" repeatCount="indefinite" keyTimes="0;0.1800;0.2500;0.96;1" values="0;0;640;640;0"/></rect></clipPath>
+<clipPath id="c3"><rect x="28" y="148" height="24" width="0"><animate attributeName="width" dur="16s" repeatCount="indefinite" keyTimes="0;0.2700;0.3400;0.96;1" values="0;0;640;640;0"/></rect></clipPath>
+<clipPath id="c4"><rect x="28" y="174" height="24" width="0"><animate attributeName="width" dur="16s" repeatCount="indefinite" keyTimes="0;0.3600;0.4300;0.96;1" values="0;0;640;640;0"/></rect></clipPath>
+<clipPath id="c5"><rect x="28" y="200" height="24" width="0"><animate attributeName="width" dur="16s" repeatCount="indefinite" keyTimes="0;0.4500;0.5200;0.96;1" values="0;0;640;640;0"/></rect></clipPath>
+<clipPath id="c6"><rect x="28" y="226" height="24" width="0"><animate attributeName="width" dur="16s" repeatCount="indefinite" keyTimes="0;0.5400;0.6100;0.96;1" values="0;0;640;640;0"/></rect></clipPath>
+<clipPath id="c7"><rect x="28" y="252" height="24" width="0"><animate attributeName="width" dur="16s" repeatCount="indefinite" keyTimes="0;0.6300;0.7000;0.96;1" values="0;0;640;640;0"/></rect></clipPath>
+<style>.l{font:500 15px 'SF Mono','JetBrains Mono',Menlo,Consolas,monospace;white-space:pre}</style></defs>
+<rect width="700" height="310" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M0 12a12 12 0 0 1 12-12h676a12 12 0 0 1 12 12v30H0z" fill="#161b22"/>
+<circle cx="24" cy="21" r="6" fill="#ff5f56"/><circle cx="44" cy="21" r="6" fill="#ffbd2e"/><circle cx="64" cy="21" r="6" fill="#27c93f"/>
+<text x="350" y="26" text-anchor="middle" class="l" fill="#8b949e" style="font-size:13px">terdiam@infra: ~</text>
+<text x="28" y="88" class="l" fill="#e2e8f0" clip-path="url(#c0)">$ whoami</text>
+<text x="28" y="114" class="l" fill="#67e8f9" clip-path="url(#c1)">terdiam  # devops · backend · fullstack</text>
+<text x="28" y="140" class="l" fill="#e2e8f0" clip-path="url(#c2)">$ cat focus.txt</text>
+<text x="28" y="166" class="l" fill="#a5b4fc" clip-path="url(#c3)">kubernetes · gitops · observability · databases</text>
+<text x="28" y="192" class="l" fill="#e2e8f0" clip-path="url(#c4)">$ ./languages --primary</text>
+<text x="28" y="218" class="l" fill="#fbbf24" clip-path="url(#c5)">go  rust  typescript  python</text>
+<text x="28" y="244" class="l" fill="#e2e8f0" clip-path="url(#c6)">$ status</text>
+<text x="28" y="270" class="l" fill="#4ade80" clip-path="url(#c7)">● online · open to collaborate</text>
+
+</svg>

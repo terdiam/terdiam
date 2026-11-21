@@ -1,112 +1,131 @@
-<h1 align="center">Hi, I'm terdiam 👋</h1>
+<div align="center">
 
-<p align="center">
-  DevOps · Backend · Fullstack<br/>
-  <sub>I build things, keep servers running, and automate the boring parts.</sub>
-</p>
+<img src="assets/header.svg" alt="terdiam — DevOps · Backend · Fullstack" width="100%" />
 
----
+<a href="https://terdiam.dev"><img src="https://img.shields.io/badge/Website-terdiam.dev-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="mailto:6184828+terdiam@users.noreply.github.com"><img src="https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/terdiam?tab=followers"><img src="https://img.shields.io/github/followers/terdiam?style=for-the-badge&logo=github&label=Followers&color=24292f" alt="Followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=terdiam&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" alt="Profile views" />
 
-### 🧭 About
+<br/><br/>
 
-- 🛠️ Infrastructure & DevOps: Kubernetes, Terraform, self-hosted servers, mesh networking, observability, database operations
-- ⚙️ Backend & fullstack: APIs, services, and the UIs on top of them
-- 📚 Currently exploring: mesh networking, database tuning, observability
-- 💬 Ask me about: Kubernetes, Terraform, Docker, Linux, PostgreSQL, MongoDB, Redis, reverse proxies
+<img src="assets/terminal.svg" alt="terminal intro" width="700" />
 
-### 🧰 Tech Stack
+</div>
 
-**Infra & DevOps**
+## 🧭 What I do
 
-![Linux](https://img.shields.io/badge/Linux-222?style=flat-square&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Rancher RKE2](https://img.shields.io/badge/Rancher_RKE2-0075A8?style=flat-square&logo=rancher&logoColor=white)
-![K3s](https://img.shields.io/badge/K3s-FFC61C?style=flat-square&logo=k3s&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
-![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
-![Envoy](https://img.shields.io/badge/Envoy-AC6199?style=flat-square&logo=envoyproxy&logoColor=white)
-![Kong](https://img.shields.io/badge/Kong-003459?style=flat-square&logo=kong&logoColor=white)
-![NetBird](https://img.shields.io/badge/NetBird-F68E37?style=flat-square&logo=wireguard&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![AWS EKS](https://img.shields.io/badge/AWS_EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F5A800?style=flat-square&logo=grafana&logoColor=white)
-![Tempo](https://img.shields.io/badge/Tempo-F46800?style=flat-square&logo=grafana&logoColor=white)
-![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-621773?style=flat-square&logo=victoriametrics&logoColor=white)
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**Databases & Messaging**
+**🛠️ Infrastructure & DevOps**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Valkey](https://img.shields.io/badge/Valkey-DC382D?style=flat-square&logo=redis&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Debezium](https://img.shields.io/badge/Debezium-FF6600?style=flat-square&logo=debezium&logoColor=white)
-![NATS](https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white)
-![EMQX](https://img.shields.io/badge/EMQX-00B173?style=flat-square&logo=mqtt&logoColor=white)
+- Kubernetes clusters, built as code
+- GitOps delivery with Argo CD
+- Terraform & Ansible automation
+- Observability: metrics, logs, traces
+- Backups, SSO, secrets management
 
-**Backend**
+</td>
+<td width="33%" valign="top">
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000?style=flat-square&logo=fastify&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Axum / Tokio](https://img.shields.io/badge/Axum_/_Tokio-DEA584?style=flat-square&logo=rust&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+**⚙️ Backend**
 
-**Frontend & Mobile**
+- APIs & microservices in Go, Rust, Node.js
+- gRPC, REST, WebSocket
+- Event-driven systems with Kafka / RabbitMQ
+- PostgreSQL, MongoDB, Redis tuning
 
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![Remix](https://img.shields.io/badge/Remix-000?style=flat-square&logo=remix&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
+</td>
+<td width="33%" valign="top">
 
-### 📊 GitHub Stats
+**🎨 Frontend & Mobile**
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=terdiam&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terdiam&layout=compact&hide_border=true&theme=default" alt="Top languages" />
-</p>
+- Vue / Nuxt, React / Next.js, Astro
+- Flutter & Kotlin mobile apps
+- Dashboards and internal tools
+- Desktop apps with Tauri
 
-<!--
-### 📌 Featured Projects
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/terdiam/REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=terdiam&repo=REPO_1&hide_border=true" alt="REPO_1" /></a>
-  <a href="https://github.com/terdiam/REPO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=terdiam&repo=REPO_2&hide_border=true" alt="REPO_2" /></a>
-</p>
--->
+## 🧰 Tech Stack
 
-### 📫 Connect
+<details open>
+<summary><b>🛠️ Infra & DevOps</b></summary>
+<br/>
 
-[![Email](https://img.shields.io/badge/Email-6184828+terdiam@users.noreply.github.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:6184828+terdiam@users.noreply.github.com)
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,terraform,ansible,nginx,prometheus,grafana,jenkins,githubactions,aws,cloudflare&perline=13" alt="" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" alt="Traefik" /> <img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white" alt="Caddy" /> <img src="https://img.shields.io/badge/Envoy-AC6199?style=for-the-badge&logo=envoyproxy&logoColor=white" alt="Envoy" /> <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD" /> <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" /> <img src="https://img.shields.io/badge/Cilium-F8C517?style=for-the-badge&logo=cilium&logoColor=white" alt="Cilium" /> <img src="https://img.shields.io/badge/Kong-003459?style=for-the-badge&logo=kong&logoColor=white" alt="Kong" /> <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" /> <img src="https://img.shields.io/badge/NetBird-F68E37?style=for-the-badge&logo=wireguard&logoColor=white" alt="NetBird" /> <img src="https://img.shields.io/badge/Loki_·_Tempo_·_Mimir-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Loki · Tempo · Mimir" /> <img src="https://img.shields.io/badge/VictoriaMetrics-621773?style=for-the-badge&logo=victoriametrics&logoColor=white" alt="VictoriaMetrics" />
+
+</details>
+
+<details>
+<summary><b>🗄️ Databases & Messaging</b></summary>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch,kafka,rabbitmq&perline=13" alt="" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white" alt="ClickHouse" /> <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" alt="OpenSearch" /> <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" /> <img src="https://img.shields.io/badge/Valkey-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Valkey" /> <img src="https://img.shields.io/badge/Debezium-FF6600?style=for-the-badge&logo=debezium&logoColor=white" alt="Debezium" /> <img src="https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white" alt="NATS" /> <img src="https://img.shields.io/badge/EMQX-00B173?style=for-the-badge&logo=mqtt&logoColor=white" alt="EMQX" />
+
+</details>
+
+<details>
+<summary><b>⚙️ Backend</b></summary>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=go,rust,nodejs,ts,py,php,express,nestjs,flask,fastapi,laravel,prisma&perline=13" alt="" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Fastify-000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" /> <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" /> <img src="https://img.shields.io/badge/Axum_·_Tokio-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="Axum · Tokio" /> <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+
+</details>
+
+<details>
+<summary><b>🎨 Frontend & Mobile</b></summary>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,astro,remix,tailwind,vite,flutter,kotlin,tauri&perline=11" alt="" />
+
+</details>
+
+## 📊 GitHub Activity
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=terdiam&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=terdiam&show_icons=true&hide_border=true&theme=default&count_private=true&include_all_commits=true" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=terdiam&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terdiam&layout=compact&hide_border=true&theme=default&langs_count=8" alt="Top languages" />
+</picture>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=terdiam&hide_border=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=terdiam&hide_border=true" alt="Contribution streak" />
+</picture>
+</div>
+
+## 📌 Featured
+
+<div align="center">
+<a href="https://github.com/terdiam/kubernaut"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=terdiam&repo=kubernaut&hide_border=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=terdiam&repo=kubernaut&hide_border=true" alt="kubernaut" />
+</picture></a>
+</div>
+
+## 📫 Let's connect
+
+Open to infrastructure, platform, and backend collaboration. Reach me by [email](mailto:6184828+terdiam@users.noreply.github.com) or through [terdiam.dev](https://terdiam.dev).
+
+<img src="assets/footer.svg" alt="" width="100%" />
