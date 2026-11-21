@@ -3,7 +3,7 @@
 <img src="assets/header.svg" alt="terdiam — DevOps · Backend · Fullstack" width="100%" />
 
 <a href="https://terdiam.dev"><img src="https://img.shields.io/badge/Website-terdiam.dev-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-<a href="mailto:6184828+terdiam@users.noreply.github.com"><img src="https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:info@terdiam.dev"><img src="https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/terdiam?tab=followers"><img src="https://img.shields.io/github/followers/terdiam?style=for-the-badge&logo=github&label=Followers&color=24292f" alt="Followers" /></a>
 <img src="https://komarev.com/ghpvc/?username=terdiam&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" alt="Profile views" />
 
@@ -126,6 +126,6 @@
 
 ## 📫 Let's connect
 
-Open to infrastructure, platform, and backend collaboration. Reach me by [email](mailto:6184828+terdiam@users.noreply.github.com) or through [terdiam.dev](https://terdiam.dev).
+Open to infrastructure, platform, and backend collaboration. Reach me by [email](mailto:info@terdiam.dev) or through [terdiam.dev](https://terdiam.dev).
 
 <img src="assets/footer.svg" alt="" width="100%" />
